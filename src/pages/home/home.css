@@ -1,0 +1,181 @@
+.box-1 {
+    position: absolute;
+width: 422px !important;
+height: 122px;
+left: 90px;
+top: 259px;
+
+font-family: 'Rajdhani';
+font-style: normal;
+font-weight: 500;
+font-size: 42.6026px;
+line-height: 142.19%;
+/* or 61px */
+
+
+color: #000000;
+
+}
+
+.box-2 {
+    position: absolute;
+width: 638px !important;
+height: 93px;
+left: 90px;
+top: 450px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 161.5%;
+/* or 32px */
+
+text-align: justify;
+letter-spacing: 0.019em;
+
+color: #487894;
+}
+
+
+.box-3 {
+    position: absolute;
+    width: 1728px !important;
+    height: 278px;
+    left: 86px;
+      top: 1225.62px;
+      background: #Ffffff;
+     border-radius: 12px;
+}
+
+.typo {
+    position: absolute;
+    top: 30px;
+width: 295px;
+height: 46px;
+left: 717px;
+
+font-family: 'Rajdhani' !important;
+font-style: normal;
+font-weight: 700 !important;
+font-size: 36px !important;
+line-height: 46px;
+/* identical to box height */
+
+letter-spacing: 0.06em;
+
+color: #000000;
+}
+
+.auto{
+    position: absolute;
+    top: 150px;
+width: 367px;
+height: 62px;
+left: 322px;
+}
+
+.cctech {
+    position: absolute;
+    top: 150px;
+width: 116px;
+height: 116px;
+left: 806px;
+}
+
+.simulationHub {
+    position: absolute;
+    top: 150px;
+width: 250px;
+height: 70px;
+left: 1049px;
+}
+
+.card-1 {
+    position: absolute;
+left: 5%;
+right: 50%;
+top: 200%;
+bottom: 25%;
+width: 490px;
+height: 292px;
+margin:"0 50px 50px 50px";
+background-color: #7671FF !important;
+border-radius: 19px !important;
+}
+.card-2 {
+    position: absolute;
+left: 38%;
+right: 70%;
+top: 200%;
+bottom: 25%;
+width: 490px;
+height: 292px;
+margin:"0 50px 50px 50px";
+background-color: #00E492 !important;
+border-radius: 19px !important;
+}
+.card-3 {
+    position: absolute;
+left: 70%;
+right: 60%;
+top: 200%;
+bottom: 25%;
+width: 490px;
+height: 292px;
+margin:"0 50px 50px 50px";
+background-color: #00BCDF !important;
+border-radius: 19px !important;
+}
+.dataListGrid {
+    border-left: "1px solid #006BA6";
+    height: 220;
+    padding-bottom:"50px !important";
+  }
+
+  .typo-card {
+    position: absolute;
+left: 7.55% !important;
+right: 35.31%;
+top: 50px !important;
+bottom: 54.79%;
+
+font-family: 'Roboto' !important;
+font-style: normal;
+font-weight: 400;
+font-size: 27.1107px !important;
+line-height: 39px;
+
+color: #FFFFFF;
+  }
+
+  .typo-card-2 {
+    position: absolute;
+left: 7.55% !important;
+right: 15.51% !important;
+top: 160px!important;
+bottom: 31.85% !important;
+
+font-family: 'Roboto'!important;
+font-style: normal;
+font-weight: 400;
+font-size: 20px !important;
+line-height: 150%;
+/* or 30px */
+
+text-align: justify;
+letter-spacing: -0.011em;
+
+color: #FFFFFF;
+  }
+
+  .card-4 {
+    height: 138.79px;
+    width: 125.06px;
+    top: 700px !important;
+    margin:"50px 0px 5px 50px";
+    position: absolute;
+    background: #F4F5F7;
+border: 0.514871px solid rgba(118, 113, 255, 0.21);
+border-radius: 4.5754px;
+  }
